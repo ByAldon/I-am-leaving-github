@@ -5,6 +5,6 @@ So i am leaving github. it was good as long it lastest. But i am done.
 
 All the projects you see on my github will be continued on Gitlab
 
-https://gitlab.com/Aldon
+https://gitlab.com/users/Aldon/projects
 
 See you there 😊
